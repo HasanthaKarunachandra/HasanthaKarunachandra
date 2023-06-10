@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--9CpE_JPT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/9dj2iigrdwj2waerghc3.gif)](https://geekflare.com/platforms-to-learn-coding-through-gameplay/)
+[![MasterHead](https://raw.githubusercontent.com/HasanthaKarunachandra/HasanthaKarunachandra/main/Hasantha.gif)](https://github.com/)
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasantha+Karunachandra" alt="Typing SVG" /></a>
 </h3>
