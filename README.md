@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full-stack development**
 
-- 💬 Ask me about **Java,Python,JS,HTML,CSS**
+- 💬 Ask me about **Java,Python,JS,HTML,CSS,TS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
